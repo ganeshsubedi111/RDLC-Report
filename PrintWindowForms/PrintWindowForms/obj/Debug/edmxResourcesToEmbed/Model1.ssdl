@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="userDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'userDB.dbo.Product_Master' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Product_Master">
+    <Key>
+      <PropertyRef Name="product_name" />
+      <PropertyRef Name="product_desc" />
+    </Key>
+    <Property Name="product_name" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="product_desc" Type="varchar" MaxLength="255" Nullable="false" />
+    <Property Name="cost" Type="decimal" Precision="18" Scale="0" />
+    <Property Name="stock" Type="int" />
+  </EntityType>
+  <EntityContainer Name="userDBModelStoreContainer">
+    <EntitySet Name="Product_Master" EntityType="Self.Product_Master" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Product_Master].[product_name] AS [product_name], 
+    [Product_Master].[product_desc] AS [product_desc], 
+    [Product_Master].[cost] AS [cost], 
+    [Product_Master].[stock] AS [stock]
+    FROM [dbo].[Product_Master] AS [Product_Master]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

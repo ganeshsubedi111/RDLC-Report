@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\obj\Debug\PrintWindowForms.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\obj\Debug\PrintWindowForms.Form1.resources
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\obj\Debug\PrintWindowForms.Properties.Resources.resources
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\obj\Debug\PrintWindowForms.csproj.GenerateResource.cache
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\obj\Debug\PrintWindowForms.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\bin\Debug\PrintWindowForms.exe.config
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\bin\Debug\PrintWindowForms.exe
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\bin\Debug\PrintWindowForms.pdb
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\obj\Debug\PrintWindowForms.csproj.CopyComplete
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\obj\Debug\PrintWindowForms.exe
+C:\Users\User\Desktop\RDLCReportC#\PrintWindowForms\PrintWindowForms\obj\Debug\PrintWindowForms.pdb
