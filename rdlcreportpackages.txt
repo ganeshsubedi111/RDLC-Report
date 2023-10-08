@@ -1,0 +1,6 @@
+requirepackage for rdlc report:
+1-Install-Package System.Text.Encoding.CodePages
+2-system.codedom
+System.Security.Permissions
+aspnetcore.reporting
+Microsoft.ReportViewer.WebForms
